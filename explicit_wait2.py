@@ -26,3 +26,5 @@ input1.send_keys(y)
 button2 = browser.find_element_by_id("solve")
 button2.click()
 time.sleep(5)
+
+
