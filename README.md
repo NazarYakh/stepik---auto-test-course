@@ -1,3 +1,3 @@
 # stepik---auto-test-course
 Homework for stepik course
-Домашнее задание для курса stepik.org
+Р”РѕРјР°С€РЅРµРµ Р·Р°РґР°РЅРёРµ РґР»СЏ РєСѓСЂСЃР° stepik.org
